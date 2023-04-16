@@ -1,4 +1,4 @@
-# projectJava
+# Project Quản lý Linh Kiện
 Quy trình làm việc với git của team dự án:
 
 Code chính sẽ nằm ở nhánh main (server)
